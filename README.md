@@ -52,6 +52,8 @@ Step4: apply the activation function over the net input calculated.
 
 **2. Madaline**
 
+![Madaline Image](https://github.com/Duttabhi/Basic-Neural-Nets/blob/master/Madaline.jpg)
+
 Stands for multiple adaptive linear neuron
 It consists of many adalines in parallel with a single output unit whose value is based on certain selection rules.
 It uses the majority vote rule
